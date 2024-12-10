@@ -1,0 +1,5 @@
+chat/
+db.sqlite3
+.env
+.DS_Store
+__pycache__
